@@ -1,4 +1,4 @@
-#Offline Revival
+OFFLINE REVIVAL
 
 Local launcher and hosting tools for the classic Roblox client versions included in this project. The launcher includes avatar customization, local services, maps, and the original client integrations.
 
